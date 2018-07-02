@@ -28,6 +28,5 @@
   },
   "homepage": "https://github.com/UltimateAngular/typescript-basics-seed#readme",
   "dependencies": {
-    "global": "^4.3.2"
   }
 }
